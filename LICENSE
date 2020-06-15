@@ -200,3 +200,9 @@ BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+Introduction to NLG
+
+Natural Language Generation (NLG) is the subfield of Artificial Intelligence and Computational Linguistics that is concerned with the construction of systems that can generate human-understandable language which have an indistinguishable and believable effect. NLG systems combine the knowledge of the natural language and the operating domain to create automatic ways to generate reports or summarize messages. NLG systems augment interactive intelligent systems as the source for chatbot responses and text-to-speech.
+When humans generate language, either written or spoken, various decisions are made. The content to be expressed is first selected and structured. Content must be distributed into sentences. Choice of words and syntactic structure must be decided. Appropriate expressions for the right placement must be chosen. Avoidance of redundant sentence/word constructs by aggregation. These different decisions interact with each other and are subject to various context and constraints. The constraints can also stretch into the realms of communicative goals, intentions to be achieved from the audience the text is aimed at and from the situation and considerations for past discourse. NLG systems attempt to replicate a similar effect for their intended purpose.
+In this paper, we introduce the fundamentals of NLGsystems, discuss the different ways of language generation, layout the considerations of implementing NLG systems, provide an overview of market players and current initiatives in UBS for early adopters.
+
