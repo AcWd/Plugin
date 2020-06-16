@@ -199,28 +199,3 @@ LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-Natural Language Generation components are the final line of defence for interactive AI systems in-terms of facing the end-user. It abstracts the complexity involved in the myriad of components and surfaces the optimal text for the task at hand. With the increasing emphasis on User Experience(UX), the quality of the generated language inadvertently becomes the representative of the AI system as a whole immaterial of other sophistications in the system. They thus play a role in building engagement, trust and adoption of the system as a whole. These factors warrant a better focus on NLG components or NLG "like" features which are part of both external and in-house tools in for Enterprises. We believe the field of NLG is in early stages adoption in Enterprise settings.  While most systems are built to fail-safe in most circumstances, for NLG systems performance during worst-case scenarios needs to be tested and understood before commissioning. 
-
-Opportunities and risks: 
-AI meets BI: Enterprise application of Language generation w.r.t data-to-text automatic narrative generation will be the next major frontier for teams who have exhausted the exploration and implementation of advanced reporting and data visualization. 
-Evaluation methods: Despite the recent progress, evaluation methods for NLG remain a challenge. The very diverse nature of the Language generation contributes to this challenge. It is desirable for any new methods to complement practises in existing testing paradigms. Hybrid approaches involving metrics and human evaluation are likely to stay for a while. This invites the need for tools which cater to this need. 
-Template vs NLG vs Neural NLG:  Template vs NLG has been discussed at length in the previous section. Logic and software elegance can mask real approach posing vendor assessment challenges. Neural approaches are dominant in text-to-text use cases and augmenting components in NLG sub task. 
-Embedded NLG:  It is increasingly common to see some form of language generation features embedded in end-user facing applications. There is a need for a better understanding of the boundaries in which they operate. 
-
-Proposed next steps and future research
-Vendor evaluations:  X has evaluated a few major players in this space, predominantly in data-to-text for use-cases involving automatic narrative generation. 
-NLG awareness: There is a need to raise awareness on the use of NLG  its systems, applications and limitations. This will lead to a better proliferation of NLG systems and use-case evaluation. 
- Explainable AI:  As an emerging area of research, there is a need to track progress on the potential contribution of the language generation process towards Explainable AI. 
-Neural NLG:  The rate of progress on Transfer Learning techniques fueled by Transformers has been impressive. There is a need for more in-house experimentation with internal corpus and open sharing of results.It remains to be seen the adoption of these techniqes in Enterprise vendor offerings. 
-
-
-
- 
-
-
-
-
-
-  
