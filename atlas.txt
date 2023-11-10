@@ -1,0 +1,21 @@
+1 Strengths and achievements: What were your core contributions this year? What was the impact of your achievements? 
+
+The focus for this year was on Auto commentary, Super Search & Risk Insights platform 
+As part of this: 
+•	Successfully led and delivered the PoC for Auto commentary by owning the technical design and delivery  
+•	Mapped the business process,product-specific requirements and dependencies for Credit Risk, Market Risk & Treasury Risk 
+•	Created the detailed plan and book of work for the delivery of Auto Commentary 
+•	Identified an opportunity to broaden the scope of Auto Commentary by switching from Corporate Lending to the semantic layer approach leveraging the denorm table. Thus expanding the scope and impact. 
+•	Worked with the denorm table developers to include Auto Commentary specific requirements 
+•	Devised ways to capture product-level fact identification criteria 
+•	Improved the Language generation capability on the facts using Generative AI approaches to dynamically generate commentary
+
+Super Search:
+•	Contributed towards the architecture design of Super Search and challenged practices where possible
+•	Made changes to the language generation approach originally devised for Autocommentary for Auto summarization of the search output
+
+Between the CS merger and integration, there was disarray in prioritization and IT delivery, which meant Auto Commentary couldn’t be prioritized, but I’ve persisted and continued to lay the groundwork for Auto Commentary. 
+ 
+2- Development areas: What are your opportunities to develop and improve? In what areas could you be more impactful? 
+ 
+I’d very much appreciate the support for relevant OKRs prioritized for delivery. 
